@@ -1,0 +1,310 @@
+{
+  "athletes": [
+    {
+      "id": 1,
+      "name": "Mariani",
+      "gender": "Feminino",
+      "age": null,
+      "times": {
+        "crawl": {
+          "time": null
+        },
+        "breaststroke": {
+          "time": null
+        },
+        "backstroke": {
+          "time": null
+        },
+        "butterfly": {
+          "time": null
+        },
+        "crawlLongo": {
+          "time": null
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Vanessa",
+      "gender": "Feminino",
+      "age": null,
+      "times": {
+        "crawl": {
+          "time": null
+        },
+        "breaststroke": {
+          "time": null
+        },
+        "backstroke": {
+          "time": null
+        },
+        "butterfly": {
+          "time": null
+        },
+        "crawlLongo": {
+          "time": null
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Geovana",
+      "gender": "Feminino",
+      "age": null,
+      "times": {
+        "crawl": {
+          "time": null
+        },
+        "breaststroke": {
+          "time": null
+        },
+        "backstroke": {
+          "time": null
+        },
+        "butterfly": {
+          "time": null
+        },
+        "crawlLongo": {
+          "time": null
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Cauê",
+      "gender": "Masculino",
+      "age": null,
+      "times": {
+        "crawl": {
+          "time": null
+        },
+        "breaststroke": {
+          "time": null
+        },
+        "backstroke": {
+          "time": null
+        },
+        "butterfly": {
+          "time": null
+        },
+        "crawlLongo": {
+          "time": null
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Danilo",
+      "gender": "Masculino",
+      "age": null,
+      "times": {
+        "crawl": {
+          "time": null
+        },
+        "breaststroke": {
+          "time": null
+        },
+        "backstroke": {
+          "time": null
+        },
+        "butterfly": {
+          "time": null
+        },
+        "crawlLongo": {
+          "time": null
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Eric",
+      "gender": "Masculino",
+      "age": null,
+      "times": {
+        "crawl": {
+          "time": null
+        },
+        "breaststroke": {
+          "time": null
+        },
+        "backstroke": {
+          "time": null
+        },
+        "butterfly": {
+          "time": null
+        },
+        "crawlLongo": {
+          "time": null
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Luiz",
+      "gender": "Masculino",
+      "age": null,
+      "times": {
+        "crawl": {
+          "time": null
+        },
+        "breaststroke": {
+          "time": null
+        },
+        "backstroke": {
+          "time": null
+        },
+        "butterfly": {
+          "time": null
+        },
+        "crawlLongo": {
+          "time": null
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Tarcísio",
+      "gender": "Masculino",
+      "age": null,
+      "times": {
+        "crawl": {
+          "time": null
+        },
+        "breaststroke": {
+          "time": null
+        },
+        "backstroke": {
+          "time": null
+        },
+        "butterfly": {
+          "time": null
+        },
+        "crawlLongo": {
+          "time": null
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "Gabriel",
+      "gender": "Masculino",
+      "age": null,
+      "times": {
+        "crawl": {
+          "time": null
+        },
+        "breaststroke": {
+          "time": null
+        },
+        "backstroke": {
+          "time": null
+        },
+        "butterfly": {
+          "time": null
+        },
+        "crawlLongo": {
+          "time": null
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "Vinícius",
+      "gender": "Masculino",
+      "age": null,
+      "times": {
+        "crawl": {
+          "time": null
+        },
+        "breaststroke": {
+          "time": null
+        },
+        "backstroke": {
+          "time": null
+        },
+        "butterfly": {
+          "time": null
+        },
+        "crawlLongo": {
+          "time": null
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name": "Ricardo",
+      "gender": "Masculino",
+      "age": null,
+      "times": {
+        "crawl": {
+          "time": null
+        },
+        "breaststroke": {
+          "time": null
+        },
+        "backstroke": {
+          "time": null
+        },
+        "butterfly": {
+          "time": null
+        },
+        "crawlLongo": {
+          "time": null
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name": "Guilherme",
+      "gender": "Masculino",
+      "age": null,
+      "times": {
+        "crawl": {
+          "time": null
+        },
+        "breaststroke": {
+          "time": null
+        },
+        "backstroke": {
+          "time": null
+        },
+        "butterfly": {
+          "time": null
+        },
+        "crawlLongo": {
+          "time": null
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "Thiago",
+      "gender": "Masculino",
+      "age": null,
+      "times": {
+        "crawl": {
+          "time": null
+        },
+        "breaststroke": {
+          "time": null
+        },
+        "backstroke": {
+          "time": null
+        },
+        "butterfly": {
+          "time": null
+        },
+        "crawlLongo": {
+          "time": null
+        }
+      }
+    }
+  ],
+  "swimmingStyles": [
+    { "id": "crawl", "name": "Crawl (Nado Livre)", "distance": 50 },
+    { "id": "breaststroke", "name": "Peito", "distance": 50 },
+    { "id": "backstroke", "name": "Costas", "distance": 50 },
+    { "id": "butterfly", "name": "Borboleta", "distance": 25 },
+    { "id": "crawlLongo", "name": "Crawl Longo (Resistência)", "distance": 1200 }
+  ]
+}

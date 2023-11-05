@@ -116,6 +116,8 @@ out
 
 .nuxt
 dist
+dist-ssr
+*.local
 
 # Gatsby files
 
@@ -174,4 +176,13 @@ dist
 # Finder (MacOS) folder config
 .DS_Store
 
+# Others from Vite project start up
 bun.lockb
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*package-lock.json

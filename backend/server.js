@@ -7,9 +7,8 @@ const server = fastify({
 
 const dbAthletes = new DatabaseAthletesPostgres();
 
-server.get('/atletas', async (request) => {
+server.get('/athletes', async (request) => {
   const search = request.query.search || '';
-  console.log('>>>>>>>>> ', search);
   const athletes = await dbAthletes.list(search);
 
   return athletes;
@@ -17,7 +16,7 @@ server.get('/atletas', async (request) => {
 
 // WIP
 
-// server.post('/atleta', async (request, reply) => {
+// server.post('/athlete', async (request, reply) => {
 //   const {name, gender, age} = request.body;
 
 //   await dbAthletes.create({
@@ -29,7 +28,7 @@ server.get('/atletas', async (request) => {
 //   return reply.status(201).send();
 // });
 
-// server.put('/atleta/:id', () => {
+// server.put('/athlete/:id', () => {
 //   return 'Update info from specific athlete'
 // });
 
