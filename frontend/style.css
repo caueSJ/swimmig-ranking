@@ -74,3 +74,15 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.main-view {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
+
+.table-view {
+  height: 400px;
+}

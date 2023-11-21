@@ -3,10 +3,32 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css">
     <title>Simulado Copa SESC Campinas - Natação</title>
   </head>
   <body>
-    <div id="app"></div>
-    <script type="module" src="/main.js"></script>
+    <div id="app">
+      <div class="main-view">
+        <h1>Swimming Ranking</h1>
+        <h2>SESC Campinas</h2>
+        <p>
+          Simulado da Copa SESC Campinas - Natação
+        </p>
+      </div>
+      <div class="table-view">
+        <table id="athletes-table">
+          <tr class="table-header-row">
+            <th>Nome</th>
+          </tr>
+          <tr>
+            <td class="athletes-name">Caue</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+    <script src="/main.js" defer></script>
   </body>
 </html>
